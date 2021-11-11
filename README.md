@@ -1,7 +1,11 @@
 
 ## Hola!
 
+<div>
+<p style = 'text-align:center;'>
 <img src="logos/item_infinito.png" width="50%"/>
+</p>
+</div>
 
 Soy economista de formación y tengo un master en Ciencia de Datos. Cuento con una amplia experiencia en el sector público y estoy empezando a hacer docencia. Aquí puedes ver mi **[curriculum](https://github.com/musajajorge/CV/raw/master/Curriculum.pdf)**
 
@@ -10,7 +14,11 @@ Soy economista de formación y tengo un master en Ciencia de Datos. Cuento con u
 
 <img src="logos/r_logo.png" width="30%" />
 <img src="logos/python_logo.png" width="30%" />
-![]("https://github.com/musajajorge/musajajorge/blob/main/logos/spss_logo.png"){width=10 height=10}
+
+|R|Python|TEXTO|TEXTO|TEXTO|
+|---|---|---|---|---|
+|<img src="logos/r_logo.png" width="30%" />|<img src="logos/python_logo.png" width="30%" />|IMAGEN|IMAGEN|IMAGEN|
+
 
 
 ## Proyectos
@@ -19,4 +27,4 @@ Soy economista de formación y tengo un master en Ciencia de Datos. Cuento con u
 + ShinyApp de la **[ENDO](https://jorge-musaja.shinyapps.io/endo/)** (Encuesta NAcional a Docentes).  
 + Ejemplo de creación de **[nubes de palabras](https://rpubs.com/jorgemusaja/NubePalabras2/)** con R.  
 
-Actualmente me encuentro desarrollando otros proyectos. Agrégame a **[LinkedIn](https://www.linkedin.com/in/musajajorge/)** para 
+Actualmente me encuentro desarrollando otros proyectos. Agrégame a **[LinkedIn](https://www.linkedin.com/in/musajajorge/)** para mentenernos comunicados.  
