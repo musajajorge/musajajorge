@@ -10,6 +10,7 @@ Soy economista de formación y tengo un master en Ciencia de Datos. Cuento con u
 
 <img src="logos/r_logo.png" width="30%" />
 <img src="logos/python_logo.png" width="30%" />
+![]("logos/spss_logo.png"){width=10 height=10}
 
 
 ## Proyectos
