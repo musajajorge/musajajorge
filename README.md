@@ -19,8 +19,11 @@ Soy economista de formación y tengo un master en Ciencia de Datos. Cuento con u
 
 ## Proyectos
 
-Paquete publicado en CRAN llamado [mapsPERU](blank:#https://github.com/musajajorge/mapsPERU/)    
-Paquete publicado en CRAN llamado [mapsPERU](:blank:#https://github.com/musajajorge/mapsPERU/)    
+<a href="http://example.com/" target="_blank">Hello, world!</a>
+
+
+Paquete publicado en CRAN llamado [mapsPERU](blank#https://github.com/musajajorge/mapsPERU/)    
+Paquete publicado en CRAN llamado [mapsPERU](_blank:#https://github.com/musajajorge/mapsPERU/)    
 Paquete publicado en CRAN llamado [mapsPERU](blank:https://github.com/musajajorge/mapsPERU/)    
 
 + Paquete publicado en CRAN llamado **[mapsPERU](blank:#https://github.com/musajajorge/mapsPERU/)**.    
