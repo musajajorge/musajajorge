@@ -14,9 +14,8 @@ Soy economista de formación y tengo un master en Ciencia de Datos. Cuento con u
 
 ## Proyectos
 
-Puedes agregarme a **[LinkedIn](https://www.linkedin.com/in/musajajorge/)**
++ Paquete publicado en CRAN llamado **[mapsPERU](https://github.com/musajajorge/mapsPERU/)**.    
++ ShinyApp de la **[ENDO](https://jorge-musaja.shinyapps.io/endo/)** (Encuesta NAcional a Docentes).  
++ Ejemplo de creación de **[nubes de palabras](https://rpubs.com/jorgemusaja/NubePalabras2/)** con R.  
 
-
-## Donde me puedes encontrar
-
-Puedes agregarme a **[LinkedIn](https://www.linkedin.com/in/musajajorge/)**
+Actualmente me encuentro desarrollando otros proyectos. Agrégame a **[LinkedIn](https://www.linkedin.com/in/musajajorge/)** para 
