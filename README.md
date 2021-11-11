@@ -1,7 +1,7 @@
 
 ##  Hola! Mi Nombre es 
 
-<img src="logos/logo_infinito.png" width="64%" />
+<img src="logos/item_infinito.png" width="64%" />
 
 Soy **Consultor TI**, con más de 18 años de experiencia en tecnologías de la Información, he colaborado para **cervecería cuauhtémoc moctezuma, Calica (minería), Canaco Servytur Cancun, Banyan Tree Mayakoba, Oasis Hoteles.**  Actualmente sigo capacitandome diseño web y espero llegar a ser un **Full Stack Developer**, me apasiona la tecnología, busco oportunidades para aprender, apoyar, colaborar y **nunca parar de aprender.**   
 
@@ -9,7 +9,7 @@ Soy **Consultor TI**, con más de 18 años de experiencia en tecnologías de la 
 
 <img src="logos/r_logo.png" width="100%" />
 <img src="logos/python_logo.png" width="100%" />
-<code><img height="30" src="https://raw.githubusercontent.com/musajajorge/musajajorge/logos/sqlite_logo.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/musajajorge/musajajorge/master/logos/sqlite_logo.png"></code>
 
 ></code>
 
