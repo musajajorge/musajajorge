@@ -1,23 +1,18 @@
 
 ## Hola!
 
-<div>
-<p style = 'text-align:center;'>
-<img src="logos/item_infinito.png" width="50%"/>
+<p align="center">
+    <img src="logos/item_infinito.png" width="40%">
 </p>
-</div>
 
 Soy economista de formación y tengo un master en Ciencia de Datos. Cuento con una amplia experiencia en el sector público y estoy empezando a hacer docencia. Aquí puedes ver mi **[curriculum](https://github.com/musajajorge/CV/raw/master/Curriculum.pdf)**
 
 
 ## Herramientas que más uso:  
 
-<img src="logos/r_logo.png" width="30%" />
-<img src="logos/python_logo.png" width="30%" />
-
-|R|Python|TEXTO|TEXTO|TEXTO|
+|R|Python|SQLite|Stata|SPSS|
 |---|---|---|---|---|
-|<img src="logos/r_logo.png" width="30%" />|<img src="logos/python_logo.png" width="30%" />|IMAGEN|IMAGEN|IMAGEN|
+|<img src="logos/r_logo.png" width="30%"/>|<img src="logos/python_logo.png" width="30%"/>|<img src="logos/sqlite_logo.png" width="30%"/>|<img src="logos/stata_logo.png" width="30%"/>|<img src="logos/spss_logo.png" width="30%"/>|
 
 
 
