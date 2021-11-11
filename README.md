@@ -19,7 +19,7 @@ Soy economista de formación y tengo un master en Ciencia de Datos. Cuento con u
 
 ## Proyectos
 
-<a href=”https://www.masterseosem.com” target=”_blank”>texto ancla</a>
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 
 
