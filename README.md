@@ -12,7 +12,7 @@ Soy economista de formación y tengo un master en Ciencia de Datos. Cuento con u
 
 |R|Python|SQLite|Stata|SPSS|
 |---|---|---|---|---|
-|<p align="center"><img src="logos/r_logo.png" width="60%"/></p> | <p align="center"><img src="logos/python_logo.png" width="30%"/></p> | <p align="center"><img src="logos/sql_logo.png" width="60%"/></p> | <p align="center"><img src="logos/stata_logo.png" width="50%"/></p> | <p align="center"><img src="logos/spss_logo.png" width="30%"/></p>|
+|<p align="center"><img src="logos/r_logo.png" width="50%"/></p> | <p align="center"><img src="logos/python_logo.png" width="40%"/></p> | <p align="center"><img src="logos/sqlite_logo.png" width="60%"/></p> | <p align="center"><img src="logos/stata_logo.png" width="70%"/></p> | <p align="center"><img src="logos/spss_logo.png" width="25%"/></p>|
 
 ## Proyectos
 
