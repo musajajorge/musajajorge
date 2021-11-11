@@ -19,7 +19,9 @@ Soy economista de formación y tengo un master en Ciencia de Datos. Cuento con u
 
 ## Proyectos
 
-+ Paquete publicado en CRAN llamado [mapsPERU](blank:#https://github.com/musajajorge/mapsPERU/).    
+Paquete publicado en CRAN llamado [mapsPERU](blank:#https://github.com/musajajorge/mapsPERU/)    
+Paquete publicado en CRAN llamado [mapsPERU](:blank:#https://github.com/musajajorge/mapsPERU/)    
+Paquete publicado en CRAN llamado [mapsPERU](blank:https://github.com/musajajorge/mapsPERU/)    
 
 + Paquete publicado en CRAN llamado **[mapsPERU](blank:#https://github.com/musajajorge/mapsPERU/)**.    
 + ShinyApp de la **[ENDO](https://jorge-musaja.shinyapps.io/endo/)** (Encuesta NAcional a Docentes).  
