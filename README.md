@@ -7,7 +7,7 @@
 
 ---
 
-Soy economista de formación y tengo un master en Ciencia de Datos. Cuento con una amplia experiencia en el sector público y estoy empezando a hacer docencia. Aquí puedes ver mi **[curriculum](https://github.com/musajajorge/CV/raw/master/Curriculum.pdf)**
+Soy economista de formación y tengo un master en Ciencia de Datos. Cuento con experiencia en el sector público y en docencia. Aquí puedes ver mi **[curriculum](https://github.com/musajajorge/CV/raw/master/Curriculum.pdf)**
 
 
 ## Herramientas que más uso:  
