@@ -20,7 +20,7 @@ Soy economista de formación y tengo un master en Ciencia de Datos. Cuento con e
 ## Proyectos
 
 + Paquete de datos publicado en CRAN llamado **[mapsPERU](https://github.com/musajajorge/mapsPERU/)**.    
-+ Paquete con funciones que ayuden al ploteo de pirámides de población **[popPyramid](https://github.com/musajajorge/popPyramid/)**.    
++ Paquete con funciones que ayudan al ploteo de pirámides de población **[popPyramid](https://github.com/musajajorge/popPyramid/)**.    
 + ShinyApp de la **[ENDO](https://jorge-musaja.shinyapps.io/endo/)** (Encuesta Nacional a Docentes).  
 + Ejemplo de creación de **[nubes de palabras](https://rpubs.com/jorgemusaja/NubePalabras2/)** con R.  
 
