@@ -13,7 +13,7 @@ Soy economista de formación y tengo un master en Ciencia de Datos. Cuento con e
 ## Herramientas que más uso:  
 
 |R|Python|SQLite|Stata|PowerBI|
-|-------------|---|---|---|---|
+|----------|----------|---|----------|----------|
 |<p align="center"><img src="logos/r_logo.png" width="45%"/></p>|<p align="center"><img src="logos/python_logo.png" width="50%"/></p>|<p align="center"><img src="logos/sqlite_logo.png" width="20%"/></p>|<p align="center"><img src="logos/stata_logo.png" width="250%"/></p>|<p align="center"><img src="logos/powerBI_logo.png" width="100%"/></p>|
 
 
