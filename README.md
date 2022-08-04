@@ -21,7 +21,7 @@ Soy economista de formación y tengo un master en Ciencia de Datos. Cuento con e
 
 + Paquete de datos publicado en CRAN llamado **[mapsPERU](https://github.com/musajajorge/mapsPERU/)**, con datasets para la elaboración de mapas temáticos.      
 + Paquete con funciones que ayudan al ploteo de pirámides de población **[popPyramid](https://github.com/musajajorge/popPyramid/)**.    
-+ Paquete con funciones para crear paletas de colores a partir de imágenes en formato png, jpg o similares, usando algoritmos matemáticos **[makePalette](https://github.com/musajajorge/makePalette/)**.    
++ Paquete con funciones para crear paletas de colores a partir de imágenes en formato png, jpg o similares, usando algoritmos matemáticos **[makePalette](https://github.com/musajajorge/makePalette/)**. Puedes visitar aquí su **[ShinyApp](https://jorge-musaja.shinyapps.io/makePalette/)**.    
 + ShinyApp de la **[ENDO](https://jorge-musaja.shinyapps.io/endo/)** (Encuesta Nacional a Docentes).  
 + Ejemplo de creación de **[nubes de palabras](https://rpubs.com/jorgemusaja/NubePalabras2/)** con R.  
 
