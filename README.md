@@ -27,3 +27,9 @@ Soy economista de formación y tengo un master en Ciencia de Datos. Cuento con e
 + Ejemplo de creación de **[nubes de palabras](https://rpubs.com/jorgemusaja/NubePalabras2/)** con R.  
 
 Actualmente me encuentro desarrollando otros proyectos. Si te interesa emprender un proyecto en conjunto, escríbeme a [musajajorge@gmail.com](mailto:musajajorge@gmail.com) o agrégame a **[LinkedIn](https://www.linkedin.com/in/musajajorge/)** para mentenernos comunicados. 
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/musajajorge/">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>   
+</p>
