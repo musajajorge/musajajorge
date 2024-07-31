@@ -7,14 +7,7 @@
 
 ---
 
-> [!Formación]
-> Titulado en Economía y con un master en Ciencia de Datos
-
-Cuento con experiencia en el sector público y en docencia. Aquí puedes ver mi **[curriculum](https://github.com/musajajorge/CV/raw/master/Curriculum.pdf)**
-
-::: {.callout-important collapse="true"}
-Para el desarrollo de este ejercicio se buscó data real de Perú. Se halló información estadística en el Portal del Ministerio de Trabajo[^2]. Sin embargo, la información no estaba diferenciada por profesión o actividad laboral. Además, el número de fallecimientos por accidente laboral es irrelevante. En consecuencia, se tomaron datos simulados.
-:::
+Titulado en Economía y con un master en Ciencia de Datos. Cuento con experiencia en el sector público y en docencia. Aquí puedes ver mi **[curriculum](https://github.com/musajajorge/CV/raw/master/Curriculum.pdf)**
 
 ## Herramientas que más uso:  
 
