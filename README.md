@@ -9,9 +9,6 @@
 
 Titulado en Economía y con un master en Ciencia de Datos. Cuento con experiencia en el sector público y en docencia. Aquí puedes ver mi **[curriculum](https://github.com/musajajorge/CV/raw/master/Curriculum.pdf)**
 
-| ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=musajajorge&show_icons=true&theme=radical&hide=prs,issues,contribs&hide_rank=true) | ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=musajajorge&layout=compact&theme=radical) |
-|:---:|:---:|
-
 ## Herramientas que más uso:  
 
 |R|Python|SQLite|Stata|PowerBI|
@@ -34,3 +31,6 @@ Actualmente me encuentro desarrollando otros proyectos. Si te interesa emprender
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
 </p>
+
+| ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=musajajorge&show_icons=true&theme=radical&hide=prs,issues,contribs&hide_rank=true) | ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=musajajorge&layout=compact&theme=radical) |
+|:---:|:---:|
