@@ -9,7 +9,7 @@
 
 Titulado en Economía y con un master en Ciencia de Datos. Cuento con experiencia en el sector público y en docencia. Aquí puedes ver mi **[curriculum](https://github.com/musajajorge/CV/raw/master/Curriculum.pdf)**
 
-![github stats](https://github-readme-stats.vercel.app/api?username=JoseRZapata&show_icons=true&theme=react&hide=issues,contribs&hide_border=false&line_height=20&show_owner=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=musajajorge&show_icons=true&theme=react&hide=issues,contribs&hide_border=false&line_height=20&show_owner=true)
 
 ## Herramientas que más uso:  
 
