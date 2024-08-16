@@ -13,6 +13,8 @@ Titulado en Economía y con un master en Ciencia de Datos. Cuento con experienci
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=musajajorge&show_icons=true&theme=radical)
 
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=musajajorge&layout=compact&theme=radical)
+
 ## Herramientas que más uso:  
 
 |R|Python|SQLite|Stata|PowerBI|
