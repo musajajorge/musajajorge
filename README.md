@@ -11,7 +11,7 @@ Titulado en Economía y con un master en Ciencia de Datos. Cuento con experienci
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=musajajorge&show_icons=true&theme=react&hide=issues,contribs&hide_border=false&line_height=20&show_owner=true)
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=musajajorge&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=musajajorge&show_icons=true&theme=radical&hide=prs,issues,contribs)
 
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=musajajorge&layout=compact&theme=radical)
 
