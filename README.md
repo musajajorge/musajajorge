@@ -40,5 +40,5 @@ Economista con un Máster en Ciencia de Datos, especializado en análisis de dat
   </a>
 </p>
 
-| ![GitHub Stats](https://github-readme-stats...)| ![Top Langs](https://github-readme-stats...) |
-|--------------|---------------|
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musajajorge)](https://github.com/musajajorge) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musajajorge&layout=compact)](https://github.com/musajajorge) |
+|:---:|:---:|
