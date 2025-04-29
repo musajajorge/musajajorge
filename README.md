@@ -1,5 +1,6 @@
 
-## Hola!
+## ¡Hola! 👋 Soy Jorge L. Cutipa Musaja  
+Economista y Científico de Datos apasionado por el análisis de datos, la visualización y el desarrollo de herramientas en R y Python.
 
 <p align="center">
     <img src="logos/item_infinito.png" width="40%">
@@ -8,6 +9,9 @@
 ---
 
 Titulado en Economía y con un master en Ciencia de Datos. Cuento con experiencia en el sector público y en docencia. Aquí puedes ver mi **[curriculum](https://github.com/musajajorge/CV/raw/master/Curriculum.pdf)**
+
+## Sobre mí  
+Economista con un Máster en Ciencia de Datos, especializado en análisis de datos del sector público y creación de paquetes en R.  
 
 ## Herramientas que más uso:  
 
