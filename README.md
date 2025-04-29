@@ -10,7 +10,7 @@
 📊 Científico de Datos | Economista | Docente  
 💻 Experto en R, Python, Stata y PowerBI para análisis de políticas públicas  
 📦 Creador de paquetes en CRAN (mapsPERU, CINE, makePalette)  
-🎓 Máster en Ciencia de Datos (UOC) 
+🎓 Máster en Ciencia de Datos (UOC)  
 🔍 Apasionado por la visualización de datos  
 💪 15+ años de experiencia en el sector público
 
