@@ -7,7 +7,11 @@
 
 ---
 
-Economista y Científico de Datos apasionado por el análisis de datos, la visualización y el desarrollo de herramientas en R y Python. Cuento con una amplia experiencia en el sector público y en docencia.
+📊 Científico de Datos | Economista | Docente  
+💻 Experto en R, Python, Stata y PowerBI para análisis de políticas públicas  
+📦 Creador de paquetes en CRAN (mapsPERU, CINE, makePalette)  
+🎓 Máster en Ciencia de Datos (UOC) + 15+ años en sector público/educación  
+🔍 Apasionado por visualización de datos y reproducible research
 
 📄 **[Descarga mi CV aquí](https://github.com/musajajorge/CV/raw/master/Curriculum.pdf)**  
 
