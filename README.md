@@ -6,7 +6,7 @@
 ---
 
 📊 Científico de Datos | Economista | Docente  
-💻 Experto en R, Python, Stata, PowerBI y Tableau
+💻 Experto en R, Python, Stata, PowerBI y Tableau   
 📦 Creador de paquetes de R en CRAN (mapsPERU, CINE, makePalette)    
 🎓 Máster en Ciencia de Datos (UOC)  
 🔍 Apasionado por la visualización de datos  
