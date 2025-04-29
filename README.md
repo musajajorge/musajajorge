@@ -1,6 +1,4 @@
 
-## ¡Hola! 👋 Soy Jorge L. Cutipa Musaja  
-
 <p align="center">
     <img src="logos/item_infinito.png" width="40%">
 </p>
@@ -8,25 +6,23 @@
 ---
 
 📊 Científico de Datos | Economista | Docente  
-💻 Experto en R, Python, Stata y PowerBI para análisis de políticas públicas  
-📦 Creador de paquetes en CRAN (mapsPERU, CINE, makePalette)  
+💻 Experto en R, Python, Stata, PowerBI y Tableau
+📦 Creador de paquetes de R en CRAN (mapsPERU, CINE, makePalette)  
 🎓 Máster en Ciencia de Datos (UOC)  
 🔍 Apasionado por la visualización de datos  
 💪 15+ años de experiencia en el sector público
 
 📄 **[Descarga mi CV aquí](https://github.com/musajajorge/CV/raw/master/Curriculum.pdf)**  
 
+## 🛠️ Tecnologías y Herramientas
 
-## Sobre mí  
-Economista con un Máster en Ciencia de Datos, especializado en análisis de datos del sector público y creación de paquetes en R.  
-
-## Tecnologías y Herramientas  
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-1e1e1e?style=for-the-badge&logo=rshiny&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-1e1e1e?style=for-the-badge&logo=stata&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Proyectos Destacados  
 - **[mapsPERU](https://github.com/musajajorge/mapsPERU/)**: Paquete en CRAN con datasets para mapas temáticos del Perú.  
