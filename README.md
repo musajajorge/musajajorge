@@ -32,5 +32,24 @@ Actualmente me encuentro desarrollando otros proyectos. Si te interesa emprender
   </a>   
 </p>
 
+<p align='center'>
+  <a href="mailto:musajajorge@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/musajajorge/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+## Tecnologías y Herramientas  
+| ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
+|--------------|---------------|---------------|
+
+## Proyectos Destacados  
+- 🗺️ **[mapsPERU](https://github.com/musajajorge/mapsPERU/)**: Paquete en CRAN con datasets para mapas temáticos del Perú.  
+- 🎓 **[CINE](https://github.com/musajajorge/CINE/)**: Clasificación de programas educativos usando lematización en R.  
+- 🎨 **[makePalette](https://github.com/musajajorge/makePalette/)**: Generador de paletas de colores a partir de imágenes.  
+
+
 | ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=musajajorge&show_icons=true&theme=radical&hide=prs,issues,contribs&hide_rank=true) | ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=musajajorge&layout=compact&theme=radical) |
 |:---:|:---:|
