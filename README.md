@@ -25,13 +25,13 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Proyectos Destacados  
-- **[mapsPERU](https://github.com/musajajorge/mapsPERU/)**: Paquete en CRAN con datasets para mapas temáticos del Perú.  
-- **[CINE](https://github.com/musajajorge/CINE/)**: Clasificación de programas educativos usando lematización en R.  
-- **[makePalette](https://github.com/musajajorge/makePalette/)**: Generador de paletas de colores a partir de imágenes.  
-- **[popPyramid](https://github.com/musajajorge/popPyramid/)**: Creación de pirámides poblacionales.
-- ShinyApp **[Normalizador de Audio MP3](https://jorge-musaja.shinyapps.io/Normalizar_Audio_MP3/)**.      
-- ShinyApp de la **[ENDO](https://jorge-musaja.shinyapps.io/endo/)** (Encuesta Nacional a Docentes).  
-- Ejemplo de creación de **[nubes de palabras](https://rpubs.com/jorgemusaja/NubePalabras2/)** con R.  
+- **[mapsPERU](https://github.com/musajajorge/mapsPERU/)**: Paquete en CRAN con datasets para mapas temáticos del Perú  
+- **[CINE](https://github.com/musajajorge/CINE/)**: Clasificación de programas educativos usando lematización en R  
+- **[makePalette](https://github.com/musajajorge/makePalette/)**: Generador de paletas de colores a partir de imágenes  
+- **[popPyramid](https://github.com/musajajorge/popPyramid/)**: Creación de pirámides poblacionales
+- ShinyApp **[Normalizador de Audio MP3](https://jorge-musaja.shinyapps.io/Normalizar_Audio_MP3/)**      
+- ShinyApp de la **[ENDO](https://jorge-musaja.shinyapps.io/endo/)** (Encuesta Nacional a Docentes)  
+- Ejemplo de creación de **[nubes de palabras](https://rpubs.com/jorgemusaja/NubePalabras2/)** con R  
 
 📫 **Contacto**:  
 <p align='center'>
@@ -47,3 +47,4 @@
 
 | ![Estadísticas](https://github-readme-stats.vercel.app/api?username=musajajorge&show_icons=true&theme=radical&hide=prs,issues,contribs) | ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=musajajorge&layout=compact&theme=radical&hide=html,css) |
 |:---:|:---:|
+
