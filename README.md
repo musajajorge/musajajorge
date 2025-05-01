@@ -44,9 +44,14 @@
 
 ## 📊 Estadísticas de GitHub  
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=musajajorge)](https://github.com/musajajorge/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=musajajorge)](https://git.io/streak-stats)
-
 | ![Estadísticas](https://github-readme-stats.vercel.app/api?username=musajajorge&show_icons=true&theme=radical&hide=prs,issues,contribs) | ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=musajajorge&layout=compact&theme=radical&hide=html,css) |
 |:---:|:---:|
+
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=musajajorge&show_icons=true&locale=en&layout=compact" alt="musajajorge" /></p>
+
