@@ -29,7 +29,8 @@
 - **[CINE](https://github.com/musajajorge/CINE/)**: Clasificación de programas educativos usando lematización en R  
 - **[makePalette](https://github.com/musajajorge/makePalette/)**: Generador de paletas de colores a partir de imágenes  
 - **[popPyramid](https://github.com/musajajorge/popPyramid/)**: Creación de pirámides poblacionales
-- ShinyApp **[Normalizador de Audio MP3](https://jorge-musaja.shinyapps.io/Normalizar_Audio_MP3/)**      
+- ShinyApp **[Normalizador de Audio MP3](https://jorge-musaja.shinyapps.io/Normalizar_Audio_MP3/)**
+- Un eBook publicado con quarto **[R para NO principiantes](https://jorgemusaja.quarto.pub/r_para_no_principiantes/)**      
 - ShinyApp de la **[ENDO](https://jorge-musaja.shinyapps.io/endo/)** (Encuesta Nacional a Docentes)  
 - Ejemplo de creación de **[nubes de palabras](https://rpubs.com/jorgemusaja/NubePalabras2/)** con R  
 
