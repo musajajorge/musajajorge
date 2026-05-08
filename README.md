@@ -46,10 +46,16 @@
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=musajajorge&show_icons=true&theme=radical"/>
+<table align="center">
+<tr>
+<td>
+<img height="180em"
+     src="https://github-readme-stats-sigma-five.vercel.app/api?username=musajajorge&show_icons=true&theme=radical"/>
+</td>
 
-  <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=musajajorge&layout=compact&theme=radical"/>
-</p>
+<td>
+<img height="180em"
+     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=musajajorge&layout=compact&theme=radical"/>
+</td>
+</tr>
+</table>
