@@ -44,8 +44,12 @@
   </a>
 </p>
 
-## 📊 Estadísticas de GitHub  
+## 📊 Estadísticas de GitHub
 
-| ![Estadísticas](https://github-readme-stats.vercel.app/api?username=musajajorge&show_icons=true&theme=radical&hide=prs,issues,contribs) | ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=musajajorge&layout=compact&theme=radical&hide=html,css) |
-|:---:|:---:|
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=musajajorge&show_icons=true&theme=radical"/>
 
+  <img height="180em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=musajajorge&layout=compact&theme=radical"/>
+</p>
