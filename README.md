@@ -14,15 +14,9 @@
 
 📄 **[Descarga mi CV aquí](https://github.com/musajajorge/CV/raw/master/Curriculum.pdf)**  
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Herramientas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Shiny](https://img.shields.io/badge/Shiny-1e1e1e?style=for-the-badge&logo=rshiny&logoColor=white)
-![Stata](https://img.shields.io/badge/Stata-1e1e1e?style=for-the-badge&logo=stata&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![image](https://github.com/musajajorge/musajajorge/blob/main/my_gif.gif)
 
 ## Proyectos Destacados  
 - **[mapsPERU](https://github.com/musajajorge/mapsPERU/)**: Paquete en CRAN con datasets para mapas temáticos del Perú  
